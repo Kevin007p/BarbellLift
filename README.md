@@ -13,6 +13,6 @@ This is a machine learning project that classifies various barbell exercises bas
 
 **Secondary goal:** Count repetitions
 
-### Why this project?
+## Why this project?
 
-I worked on this project because it allowed me to practice my data science skills on one of my favourite hobbies: weightlifting. This was also an opportunity for me to directly apply ML techniques in a way the enforced my learning.
+I worked on this project because it allowed me to practice my data science skills on one of my favorite hobbies: weightlifting. It was also a great opportunity to apply machine learning techniques in a way that reinforced my learning.
