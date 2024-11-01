@@ -13,3 +13,4 @@ This is a machine learning project that classifies various barbell exercises bas
 
 **Secondary goal:** Count repetitions
 
+
