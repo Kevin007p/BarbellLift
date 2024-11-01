@@ -9,6 +9,6 @@ This is a machine learning project that classifies various barbell exercises bas
 
 ## Goals
 
-**Main goal: Classify the barbell exercise
-**Secondary goal: Count repetitions
+**Main goal:** Classify the barbell exercise
+**Secondary goal:** Count repetitions
 
