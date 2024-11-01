@@ -1,3 +1,1 @@
-## Data Science Project Template
-
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+BarbellLiftIdentifier is a machine learning project that classifies various barbell exercises based on accelerometer and gyroscope data collected from [Mbientlab's WristBand Sensor Research Kit](https://mbientlab.com/). The aim of this project is to track, analyze, and provide insights into barbell exercises to help users improve their workout form and performance over time.
