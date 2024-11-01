@@ -1,4 +1,4 @@
-#Barbell Lift Identifier 
+# Barbell Lift Identifier 
 
 This is a machine learning project that classifies various barbell exercises based on accelerometer and gyroscope data collected from [Mbientlab's WristBand Sensor Research Kit](https://mbientlab.com/). The aim of this project is to track, analyze, and provide insights into barbell exercises to help users improve their workout form and performance over time.
 
